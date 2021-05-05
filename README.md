@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aniket Kalra
 - 👀 I’m interested in ROS, ROS2
-- 🌱 I’m currently learning ROS2 with c++ and riviz
+- 🌱 I’m currently learning ROS2 with c++ and rviz
 - 💞️ I’m looking to collaborate on ROS2
 
 <!---
